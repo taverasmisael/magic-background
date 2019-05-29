@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  transition: background-color 400ms ease-out;
+  will-change: background-color;
+}
+.section {
+  box-shadow: 0 -3px 0 #332211;
+  width: 100%;
+  height: 100vh;
+  margin-bottom: 0;
+}
+
+.bg--red {
+  background-color: red;
+}
+.bg--red {
+  background-color: red;
+}
+.bg--hotpink {
+  background-color: hotpink;
+}
+.bg--yellow {
+  background-color: yellow;
+}
+.bg--pink {
+  background-color: pink;
+}
+.bg--deepskyblue {
+  background-color: deepskyblue;
+}
+.bg--tomato {
+  background-color: tomato;
+}
